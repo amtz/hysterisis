@@ -98,11 +98,16 @@ int main(int argc, char* argv[])
     A(21);
     A(23);
     A(46);
+    A(90);
+    A(92);
+    A(190);
     A(19);
     A(15);
     A(10);
     A(9);
     A(8);
+    A(0);
+    A(-20);
 
     return 0;
 }
